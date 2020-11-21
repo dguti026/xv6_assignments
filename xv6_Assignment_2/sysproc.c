@@ -23,9 +23,6 @@ int sys_setPriority(void){
 	}
 	return 1;
 }
-//int sys_getPriority(void){
-//	return getPriority();
-//}
 int
 sys_exit(void)
 {
